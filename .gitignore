@@ -1,0 +1,14 @@
+.venv
+.vscode
+.env
+*.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.db-shm
+*.db-wal
+*.db-x-checkpoints*
+.DS_Store
+.idea/
